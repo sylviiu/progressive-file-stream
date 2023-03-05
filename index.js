@@ -1,4 +1,5 @@
 const stream = require(`stream`)
+const fs = require('fs')
 
 /**
  * Create a stream from a file that is being actively written to.
