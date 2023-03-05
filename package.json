@@ -1,0 +1,24 @@
+{
+    "author": {
+      "name": "sylviiu"
+    },
+    "bundleDependencies": false,
+    "dependencies": {},
+    "deprecated": false,
+    "description": "Takes a file that is actively being written, and produce a live-updated a readable stream.",
+    "keywords": [
+      "stream",
+      "readablestream",
+      "files",
+      "file"
+    ],
+    "license": "ISC",
+    "main": "index.js",
+    "name": "progressive-file-stream",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/sylviiu/progressive-file-stream"
+    },
+    "version": "1.0.0"
+  }
+  
